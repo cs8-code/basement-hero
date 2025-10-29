@@ -43,7 +43,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('../../src/assets/hero-garage.jpg');
+    background-image: url('hero-garage.jpg');
     background-size: cover;
     background-position: center;
     overflow: hidden;
